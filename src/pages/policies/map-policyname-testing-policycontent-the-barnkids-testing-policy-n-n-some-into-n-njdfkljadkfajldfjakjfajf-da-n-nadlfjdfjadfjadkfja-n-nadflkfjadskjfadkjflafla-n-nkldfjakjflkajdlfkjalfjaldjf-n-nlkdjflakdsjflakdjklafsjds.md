@@ -14,4 +14,6 @@ policyContent: |-
   kldfjakjflkajdlfkjalfjaldjf
 
   lkdjflakdsjflakdjklafsjds
+barnkidsPolicy: true
+fairlandsPolicy: false
 ---
